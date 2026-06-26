@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Images/dracones_logo_horizontal_2000pxfundobranco.png" alt="Dracones IT" width="100%">
+  <img src="./main/images/dracones_logo_horizontal_2000pxfundobranco.png" alt="Dracones IT" width="100%">
 </p>
 
 ### <img src="https://img.shields.io/badge/DRACONES%20IT-%23008000?style=for-the-badge&logoColor=white" alt="Dracones IT"> 🛡️⚙️
