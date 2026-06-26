@@ -2,9 +2,6 @@
   <img src="./images/dracones_logo_horizontal_2000pxfundobranco.png" alt="Dracones IT" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dracones-IT/main/images/dracones_logo_horizontal_2000pxfundobranco.png" alt="Dracones IT" width="100%">
-</p>
 
 ### <img src="https://img.shields.io/badge/DRACONES%20IT-%23008000?style=for-the-badge&logoColor=white" alt="Dracones IT"> 🛡️⚙️
 # Suporte Técnico e Segurança da Informação
