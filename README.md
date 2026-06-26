@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/dracones_logo_horizontal_2000pxfundobranco.png" alt="Dracones IT" width="100%">
+  <img src="./images/dracones_logo_horizontal_2000px%20fundobranco.png" alt="Dracones IT" width="100%">
 </p>
 
 
