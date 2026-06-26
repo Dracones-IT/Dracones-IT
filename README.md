@@ -1,4 +1,4 @@
-### Dracones IT 🛡️⚙️
+### <img src="https://img.shields.io/badge/DRACONES%20IT-%23008000?style=for-the-badge&logoColor=white" alt="Dracones IT"> 🛡️⚙️
 ### Suporte Técnico e Segurança da Informação
 ### São Paulo / SP
 
